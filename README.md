@@ -1,2 +1,2 @@
 # ebiecas.github.io
-Open Sauce
+Github Pages Site for Open Source Personal AI Projects.
